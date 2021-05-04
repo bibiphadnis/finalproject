@@ -2,7 +2,7 @@
 
 <h3> Video Walkthrough: https://youtu.be/98aDDEZrTUQ </h3>
 
-![Database map/pictures](https://drive.google.com/file/d/186jV8yFOS3kWXMG7bwUzliUx4UbrIEK8/view?usp=sharing)
+[![Database map/pictures]] (https://drive.google.com/file/d/186jV8yFOS3kWXMG7bwUzliUx4UbrIEK8/view?usp=sharing)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
